@@ -1,0 +1,10 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{lipsum}
+
+\begin{document}
+
+\title{Test}
+
+
+\end{document}

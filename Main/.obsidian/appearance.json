@@ -1,0 +1,12 @@
+{
+  "translucency": true,
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "",
+  "baseFontSize": 19,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "awesome-brain-manager"
+  ],
+  "nativeMenus": false,
+  "showViewHeader": true
+}

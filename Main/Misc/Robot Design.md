@@ -1,0 +1,13 @@
+- 
+- 6 motor drive train(360 rpm), blue motors geared down, minimize friction with free spinnng gears and powered gears
+- 3600 rpm flywheel(1 motor) 4in + ball bearing and weights
+- double acting pneumatic indexer
+- roller connected to intake(floating)
+- same expansion we previously had(using unbent pneumatics) and adding plastic rails
+- plastic skirts
+- inertial sensor for match auton
+- easy auton = roller, fire two shots, intake 3 stack, fire a ripple shot
+- hard auton = roller, fire two shots, intake 3 disks, fire ripple shot
+- intake and roller on one side flywheel on another
+- toggle flywheel, 2-3 shot macro, variable flywheel speed? close and long range shots, outtake button, 
+- expansion blocker(powered by pneumatic pin thing)
