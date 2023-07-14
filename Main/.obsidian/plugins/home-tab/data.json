@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "College Notes.md",
-      "timestamp": 1688753311716
-    },
-    {
       "filepath": "CompTIA MOC.md",
-      "timestamp": 1688753198353
+      "timestamp": 1689364174971
     },
     {
-      "filepath": "2.8.4 Ticketing System Settings.md",
-      "timestamp": 1688590795442
+      "filepath": "3.2 Cables and Connectors.md",
+      "timestamp": 1689195517657
     },
     {
-      "filepath": "2.8.3 Ticket Create and Close Tickets.md",
-      "timestamp": 1688590415955
+      "filepath": "3.1.5 Fiber Optic Cable Facts.md",
+      "timestamp": 1689194888508
     },
     {
-      "filepath": "2.8.2 Ticketing Systems Facts.md",
-      "timestamp": 1688590362044
+      "filepath": "3.1.4 Twisted Pair Connector Facts.md",
+      "timestamp": 1689194848280
+    },
+    {
+      "filepath": "3.1.3 Twisted Pair Cable Facts.md",
+      "timestamp": 1689194799185
     }
   ],
   "starredFileStore": [],

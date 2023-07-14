@@ -49,3 +49,23 @@
 [[2.8.2 Ticketing Systems Facts]]
 [[2.8.3 Ticket Create and Close Tickets]]
 [[2.8.4 Ticketing System Settings]]
+[[2.8.5 Create a Ticket]]
+[[2.8.6 Close a Ticket]]
+[[2.8.7 Asset Management]]
+[[2.8.8 Asset Management Facts]]
+[[2.8.9 Explore Asset Tracking Systems]]
+[[2.8.10 View Warranty Information]]
+# 2.9
+[[2.9 Documentation]]
+[[2.9.1 Documentation Types]]
+[[2.9.2 Documentation Types Facts]]
+[[2.9.3 Onboarding and Offboarding Checklists]]
+[[2.9.4 Onboarding and Offboarding Checklists Facts]]
+# 3.1 HARD
+[[3.1.1. Network Cables]]
+[[3.1.2 Coaxial Cable Facts]]
+[[3.1.3 Twisted Pair Cable Facts]]
+[[3.1.4 Twisted Pair Connector Facts]]
+[[3.1.5 Fiber Optic Cable Facts]]
+# 3.2
+[[3.2 Cables and Connectors]]
