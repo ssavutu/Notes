@@ -24,6 +24,7 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+<<<<<<< HEAD
       "filepath": "College Notes.md",
       "timestamp": 1689365682179
     },
@@ -36,12 +37,26 @@
       "timestamp": 1687902677243
     },
     {
+=======
+>>>>>>> 47761f1bf43449dee204dd77212c2e8de493bf1e
       "filepath": "CompTIA MOC.md",
-      "timestamp": 1687812501336
+      "timestamp": 1689364174971
     },
     {
-      "filepath": "1.1.9 Connect Internal Components.md",
-      "timestamp": 1687812209087
+      "filepath": "3.2 Cables and Connectors.md",
+      "timestamp": 1689195517657
+    },
+    {
+      "filepath": "3.1.5 Fiber Optic Cable Facts.md",
+      "timestamp": 1689194888508
+    },
+    {
+      "filepath": "3.1.4 Twisted Pair Connector Facts.md",
+      "timestamp": 1689194848280
+    },
+    {
+      "filepath": "3.1.3 Twisted Pair Cable Facts.md",
+      "timestamp": 1689194799185
     }
   ],
   "starredFileStore": [],

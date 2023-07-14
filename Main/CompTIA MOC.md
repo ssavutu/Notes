@@ -1,3 +1,4 @@
+# 1.1
 [[1.1.2 Computing Basics]]
 [[1.1.3 Computing Facts]]
 [[1.1.4 Use the Simulator]]
@@ -7,3 +8,64 @@
 [[1.1.8 Work with Internal Components]]
 [[1.1.9 Connect Internal Components]]
 [[1.1.10 Work with Network and Server Cabinets]]
+[[1.1.11 Networking Rack Facts]]
+# 2.1
+[[2.1 Protection and Safety]]
+[[2.1.1 Safety]]
+[[2.1.2 Safety Measures]]
+[[2.1.3 Electrostatic Discharge]]
+[[2.1.4 ESD Protection]]
+[[2.1.5 ESD Facts]]
+# 2.2
+[[2.2 Environmental Controls]]
+[[2.2.1 Environmental Concerns]]
+[[2.2.2 Environmental Facts]]
+[[2.2.3 Power Concerns]]
+[[2.2.4 Configure UPS Settings]]
+[[2.2.5 Power Concern Facts]]
+# 2.3
+[[2.3 Professionalism]]
+[[2.3.1 Professionalism]]
+[[2.3.2 Professionalism Facts]]
+# 2.4
+[[2.4 Change Management]]
+[[2.4.1 Change Management Overview]]
+[[2.4.2 Change Management Facts]]
+# 2.5
+[[2.5 PC Maintenance]]
+[[2.5.1 Maintenance Best Practices]]
+[[2.5.2 PC Maintenance Facts]]
+# 2.6
+[[2.6 PC and Networking Tools]]
+[[2.6.1 PC and Networking Tools]]
+[[2.6.2 PC and Networking Tools Facts]]
+# 2.7
+[[2.7 Troubleshooting Process Overview]]
+[[2.7.1 Troubleshooting Process]]
+[[2.7.2 Troubleshooting Process Facts]]
+# 2.8
+[[2.8 Support Systems]]
+[[2.8.1 Ticketing Systems]]
+[[2.8.2 Ticketing Systems Facts]]
+[[2.8.3 Ticket Create and Close Tickets]]
+[[2.8.4 Ticketing System Settings]]
+[[2.8.5 Create a Ticket]]
+[[2.8.6 Close a Ticket]]
+[[2.8.7 Asset Management]]
+[[2.8.8 Asset Management Facts]]
+[[2.8.9 Explore Asset Tracking Systems]]
+[[2.8.10 View Warranty Information]]
+# 2.9
+[[2.9 Documentation]]
+[[2.9.1 Documentation Types]]
+[[2.9.2 Documentation Types Facts]]
+[[2.9.3 Onboarding and Offboarding Checklists]]
+[[2.9.4 Onboarding and Offboarding Checklists Facts]]
+# 3.1 HARD
+[[3.1.1. Network Cables]]
+[[3.1.2 Coaxial Cable Facts]]
+[[3.1.3 Twisted Pair Cable Facts]]
+[[3.1.4 Twisted Pair Connector Facts]]
+[[3.1.5 Fiber Optic Cable Facts]]
+# 3.2
+[[3.2 Cables and Connectors]]
